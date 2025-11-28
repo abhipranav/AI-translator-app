@@ -1,0 +1,26 @@
+# Environment
+.env
+*.local
+
+# Node / package managers
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+yarn-error.log*
+pnpm-lock.yaml
+.pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.vite/
+coverage/
+
+# Editor / OS clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
