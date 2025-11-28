@@ -55,3 +55,7 @@ MIT (update if needed).
 
 
 ## Screenshots:
+<img width="394" height="801" alt="input-screen" src="https://github.com/user-attachments/assets/450e0fb9-e552-4fb4-92f7-db49883dd19b" />
+<img width="389" height="801" alt="output-screen" src="https://github.com/user-attachments/assets/9cd9b517-d97c-4a18-bec1-7788c56be015" />
+
+
